@@ -314,5 +314,119 @@ Si un elemento se vuelve innecesario a mitad de un sprint se puede sacar de la l
 En cualquier momento del sprint el equipo puede analizar el progreso hecho y revisar si aún se puede cumplir el objetivo planeado al inicio de la iteración.
 
 
+## ¿Cuál es el ritmo del equipo? **El Sprint**
+
+**El Sprint** es el corazón de Scrum, es un período de tiempo determinado en que se crea un incremento de producto.
+
+**El ciclo de Scrum:**
+- Planeación del Sprint
+- Scrum Diario
+- Trabajo de desarrollo
+- Revisión del Sprint
+- Retrospectiva del Sprint
+
+**Características:**
+- Cada Sprint debe tener un objetivo claro.
+- Cualquier cambio dentro del Sprint debe ser negociado entre el product owner y el equipo de desarrollo.
+- Si los objetivos del Sprint quedan obsoletos este podría ser cancelado
+- Solo el product owner tiene la autoridad para cancelar el sprint
+- Es muy poco común cancelar un sprint
+
+
+**Planeación del Sprint***
+
+- Aquí se planifica todo el trabajo del Sprint
+- Debe estar presente todo el equipo de Scrum
+- No debe durar más de 8 horas para Sprints de 4 semanas
+- El Scrum master se encarga de organizar la ceremonia
+
+**Durante la planeación se deben responder estas preguntas:**
+- ¿Qué púede entregarse al final del Sprint?
+    - Se trabajan los elementos prioritarios de la lista del producto
+    - Se discute el objetivo a lograr en el sprint
+    - En el proceso de planeación se necesita saber la capacidad del equipo y la velocidad de la última iteración
+- ¿Cómo se logrará hacer ese trabajo?
+    - Los elementos de la lista del producto seleccionados para el Sprint se analizan y se mueven a la lista de pendientes del Sprint
+    - Durante este proceso se hacen las estimaciones de esfuerzos
+    - El product owner se encarga de aclarar cualquier duda con algún elemento del backlog
+    - Pueden haber invitados que aporten valor a la discusión de las funcionalidades
+
+**Proceso de planeación:**
+- Elementos
+- Estimación
+- Capacidad
+- Objetivos
+
+### **Daily Stand-up**
+
+**Características:**
+- Es una reunión diaria de no más de 15 minutos del equipo de desarrollo
+- Se utiliza para planear las próximas 24 horas de trabajo
+- El Scrum Master ayuda a programar la reunión en el mismo lugar a la misma hora todos los días
+- Otras personas pueden estar presentes pero no participar
+- Optimiza la colaboración entre los miembros del equipo, también ayuda a medir el progreso para cumplir el objetivo del sprint
+
+**Se deben responder tres preguntas:**
+- ¿Qué hice ayer?
+- ¿Qué haré hoy?
+- ¿Tengo algún impedimento?
+
+### Refinar historias en Scrum
+
+- Dentro de los procesos de Scrum es altamente deseado siempre tener funcionalidad en la lista de producto listas para implementación.
+- Se recomienda tener al menos una sesión para refinar historais durante el sprint
+- Esta reunión es organizada por el Scrum Master y pueden participar todos los miembros del equipo de desarrollo. El product owner siempre está presente
+
+El **objetivo** de la sesión de refinamiento de historias es poder tomar las funcionalidades a trabajar en el siguiente sprint y detectar cualquier posible duda o impedimento antes de comenzar el sprint.
+
+
+### Mostrando y aprendiendo, demos y retrospectivas
+
+La **revisión del sprint** ocurre siempre al final del sprint, en ella se demuestran los avances de la iteración y el producto funcional que se construyó
+
+**Características:**
+- Es facilitada por el Scrum Master
+- No debe durar más de 4 horas para sprints de un mes. Para sprints más cortos la ceremonia deberá durar menos tiempo.
+- Al final de la revisión se tendrá una lista de producto actualizada
+- Importante, guardar las presentaciones y muestra el producto desarrollado
+
+
+La **retrospectiva:**
+- No debe durar más de 3 horas para un sprint de 1 mes
+- Es facilitada por el Scrum Master
+- Participa todo el equipo de Scrum
+
+**Se discuten:**
+- Herramientas
+- Relaciones
+- Personas
+- Procesos
+
+**Se responden tres preguntas:**
+- ¿Qué hicimos bien?
+- ¿Qué no hicimos tan bien?
+- ¿Qué podemos mejorar?
+
+En base a las respuestas se identifican los elementos más importantes, se buscan soluciones y se crea un plan de acción para aplicar las mejoras.
+
+
+## Escalabilidad de equipos
+
+Scrum es capaz de funcionar con proyectos de 10 personas como proyectos de 100 personas y más. La forma en como está diseñado Scrum permite enfrentar proyectos de distintos niveles de complejidad.
+
+**Scrums of Scrums** es una reunión donde frecuentemente se encuentran miembros de todos los equipos y que permiten coordinar esfuerzos entre los distintos equipos de la organización.
+
+### Las comunidades de práctica
+
+**Las comunidades de práctica** son grupos de personas que comparten un interés o una pasión por algo que hacen y aprenden a hacerlo mejor a medida que van interactuando.
+
+**Elementos:**
+- Dominio, ¿qué nos gusta?
+- Práctica, ¿cómo lo compartimos?
+- Comunidad, ¿a quién más le interesa?
+
+**Se pueden organizar de dos formas:**
+- Basadas en roles
+- Basadas en tópicos
 
 
